@@ -1,0 +1,15 @@
+The input for MIXEHR: molecular_data and molecular_meta.
+
+Includes all 4 original molecular data sets, not filtered. Questionnaire ID were labelled differently across time point, there is no distinguish about subject name across different weeks. 
+
+There are 220 subjects, the molecular data include: 1977 miRNA; 1508 piwiRNA, 640 in rfam, 58126 mRNA in RNASeq. 
+
+The questionnaire ID labelling: 
+
+Micro RNA week 0, 2, 8: 48, 49, 50
+
+Piwi RNA week 0, 2, 8: 51, 52, 53
+
+rfam week 0, 2, 8: 54, 55, 56
+
+RNASeq week 0, 2, 8: 57, 58, 59
